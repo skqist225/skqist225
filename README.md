@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skqist225
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning NODEJS
+- 🌱 I’m currently learning NODEJS, Spring boot, Devops
 - 💞️ I’m looking to collaborate on doing something great
 - 📫 How to reach me fb:https://www.facebook.com/Weareoneachothersteam
 
