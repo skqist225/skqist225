@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skqist225" alt="skqist225" /></a> </p>
 
-- 🔭 I’m currently working at **TMA Solutions**
+- 🔭 I’m currently working at ...
 
 - 🌱 I’m currently investigating about **Jenkins opensource project**
 
