@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **docker, jenkins, reactjs, java**
 
-- 📫 How to reach me **https://www.facebook.com/Weareoneachothersteam/**
-
 - ⚡ Fun fact **Being able to immerse yourself in what you love doing everyday life is the greatest thing ever.**
 
 <h3 align="left">Connect with me:</h3>
